@@ -1,2 +1,2 @@
-> Every repository I archived/made private made me everything I am
-> Kanye West
+> Every repository I archived/made private made me everything I am  
+> -- Kanye West
