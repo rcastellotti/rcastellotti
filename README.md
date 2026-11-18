@@ -1,1 +1,1 @@
-moved to: https://git.rcastellotti.dev/rc
+moved to: https://g.rcastellotti.dev/rc
